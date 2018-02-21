@@ -25,6 +25,7 @@ Curated list of flight searches
 
 * [Azair.eu Almost all low-cost airlines](http://www.azair.eu/)
 * [List of lowcost companies](lowcost.md)
+* [Lowcost airports map](http://helloworldmap.ru/)
 
 ## Error fares and cheap flights aggregators
 
