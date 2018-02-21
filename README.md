@@ -16,20 +16,20 @@ Curated list of flight searches
 
 ## General search
 
-*[Googlet](https://www.google.com/flights/)
-*[Kiwi](https://kiwi.com)
-*[IATA search](http://matrix.itasoftware.com/)
-*[Adioso](http://adioso.com)
+* [Googlet](https://www.google.com/flights/)
+* [Kiwi](https://kiwi.com)
+* [IATA search](http://matrix.itasoftware.com/)
+* [Adioso](http://adioso.com)
 
 ## Low-cost airlines
 
-*[Azair.eu Almost all low-cost airlines](http://www.azair.eu/)
+* [Azair.eu Almost all low-cost airlines](http://www.azair.eu/)
 
 ## Error fares and cheap flights aggregators
 
-*[Secretflying.com](http://www.secretflying.com/euro-deals/)
-*[Theflightdeal.com](https://www.theflightdeal.com)
-*[Hacktheflight.net](https://hacktheflight.net)
+* [Secretflying.com](http://www.secretflying.com/euro-deals/)
+* [Theflightdeal.com](https://www.theflightdeal.com)
+* [Hacktheflight.net](https://hacktheflight.net)
 
 ## Communities
 
