@@ -1,6 +1,8 @@
 # awesome-flights
 Curated list of flight searches
 
+Want to contribute? Send me a PR or private mail to [mailbox](mailto:root@kevit.info)
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
    * [awesome-flights](#awesome-flights)
