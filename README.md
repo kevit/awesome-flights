@@ -15,6 +15,7 @@ Want to contribute? Send me a PR or private mail to [mailbox](mailto:root@kevit.
     * [Services which helps you find a cheap flight](#services-which-helps-you-find-a-cheap-flight)
     * [Stopover](#stopover)
     * [Delays? Here is a help](#delays-here-is-a-help)
+    * [Other services](#other-services)
 
 ## General search
 
@@ -45,7 +46,8 @@ Still looking for a good search engine
 
 ## Empty legs
 
-Still looking for a good search enginex
+* [Lunajets](https://www.lunajets.com/en/empty-leg-flights/)
+
 
 ## Services which helps you find a cheap flight
 
@@ -55,6 +57,7 @@ Still looking for a good search enginex
 ## Stopover
 
 * Turkish airlines providing an hotel or Istambul trip for free if yours stopover longer that 8 hours
+* [Airports sleeping guide](https://www.sleepinginairports.net/)
 * [Airports tour](http://thriftynomads.com/6-airports-with-free-tours/)
 
 ## Delays? Here is a help
@@ -63,3 +66,7 @@ Still looking for a good search enginex
 * [Airhelp Helps you get a return from your flight company](https://airhelp.com)
 * [Fairplane.de their Competitor](https://www.fairplane.de/)
 
+
+## Other services
+
+* [SeatGuru Choose a proper seat](https://www.seatguru.com/)
