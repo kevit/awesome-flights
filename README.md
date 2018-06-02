@@ -74,8 +74,8 @@ Still looking for a good search engine
 * [ADSB](https://twitter.com/ADSBTweetBot)
 * [CivMilAir](https://twitter.com/CivMilAir)
 * [Milradar](http://milradar.livejournal.com/)
-*[Milradar Twitter](https://twitter.com/MIL_Radar)
-*[Planesonthenet](https://twitter.com/planesonthenet)
+* [Milradar Twitter](https://twitter.com/MIL_Radar)
+* [Planesonthenet](https://twitter.com/planesonthenet)
 
 ## Other services
 
