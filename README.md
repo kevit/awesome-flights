@@ -23,6 +23,7 @@ Want to contribute? Send me a PR or private mail to [mailbox](mailto:root@kevit.
 * [Kiwi](https://kiwi.com)
 * [IATA search](http://matrix.itasoftware.com/)
 * [Adioso](http://adioso.com)
+* [Full airports database](http://www.partow.net/miscellaneous/airportdatabase/)
 
 ## Low-cost airlines
 
@@ -67,6 +68,19 @@ Still looking for a good search engine
 * [Fairplane.de their Competitor](https://www.fairplane.de/)
 
 
+## Plain watching 
+* [Flightradar](https://flightradar24.com)
+* [Flightaware](https://uk.flightaware.com/)
+* [ADSB](https://twitter.com/ADSBTweetBot)
+* [CivMilAir](https://twitter.com/CivMilAir)
+* [Milradar](http://milradar.livejournal.com/)
+*[Milradar Twitter](https://twitter.com/MIL_Radar)
+*[Planesonthenet](https://twitter.com/planesonthenet)
+
 ## Other services
 
 * [SeatGuru Choose a proper seat](https://www.seatguru.com/)
+* [Virtual airports](https://www.youtube.com/watch?v=bQQK0iR5iBU)
+* [METAR and airport list](http://www.orbifly.com/member/metmap.php?mode=metar)
+* [AIS Netherlands](http://www.ais-netherlands.nl)
+
