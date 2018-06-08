@@ -24,6 +24,7 @@ Want to contribute? Send me a PR or private mail to [mailbox](mailto:root@kevit.
 * [IATA search](http://matrix.itasoftware.com/)
 * [Adioso](http://adioso.com)
 * [Full airports database](http://www.partow.net/miscellaneous/airportdatabase/)
+* [Flightlist](https://www.flightlist.io/)
 
 ## Low-cost airlines
 
