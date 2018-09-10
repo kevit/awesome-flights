@@ -6,16 +6,17 @@ Want to contribute? Send me a PR or private mail to [mailbox](mailto:root@kevit.
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
    * [awesome-flights](#awesome-flights)
-    * [General search](#general-search)
-    * [Low-cost airlines](#low-cost-airlines)
-    * [Error fares and cheap flights aggregators](#error-fares-and-cheap-flights-aggregators)
-    * [Communities](#communities)
-    * [Charter flights](#charter-flights)
-    * [Empty legs](#empty-legs)
-    * [Services which helps you find a cheap flight](#services-which-helps-you-find-a-cheap-flight)
-    * [Stopover](#stopover)
-    * [Delays? Here is a help](#delays-here-is-a-help)
-    * [Other services](#other-services)
+   * [General search](#general-search)
+   * [Special search] (#special-search)
+   * [Low-cost airlines](#low-cost-airlines)
+   * [Error fares and cheap flights aggregators](#error-fares-and-cheap-flights-aggregators)
+   * [Communities](#communities)
+   * [Charter flights](#charter-flights)
+   * [Empty legs](#empty-legs)
+   * [Services which helps you find a cheap flight](#services-which-helps-you-find-a-cheap-flight)
+   * [Stopover](#stopover)
+   * [Delays? Here is a help](#delays-here-is-a-help)
+   * [Other services](#other-services)
 
 ## General search
 
@@ -23,15 +24,20 @@ Want to contribute? Send me a PR or private mail to [mailbox](mailto:root@kevit.
 * [Kiwi](https://kiwi.com)
 * [IATA search](http://matrix.itasoftware.com/)
 * [Adioso](http://adioso.com)
-* [Full airports database](http://www.partow.net/miscellaneous/airportdatabase/)
 * [Flightlist](https://www.flightlist.io/)
+
+## Special search
+
+* [Full airports database](http://www.partow.net/miscellaneous/airportdatabase/)
+* [Airport connections map](https://www.flightconnections.com/)
+* [Multiple persons to one destination](https://www.tripmatch.org)
 
 ## Low-cost airlines
 
 * [Azair.eu Almost all low-cost airlines](http://www.azair.eu/)
 * [List of lowcost companies](lowcost.md)
 * [Lowcost airports map](http://helloworldmap.ru/)
-* [Airport connections map](https://www.flightconnections.com/)
+
 
 ## Error fares and cheap flights aggregators
 
@@ -68,6 +74,7 @@ Still looking for a good search engine
 * [Directive EU 261](https://en.wikipedia.org/wiki/Flight_Compensation_Regulation_261/2004)
 * [Airhelp Helps you get a return from your flight company](https://airhelp.com)
 * [Fairplane.de their Competitor](https://www.fairplane.de/)
+* [Another return service] (https://www.compensair.com/en/)
 
 
 ## Plain watching 
