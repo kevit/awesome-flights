@@ -7,7 +7,7 @@ Want to contribute? Send me a PR or private mail to [mailbox](mailto:root@kevit.
 
    * [awesome-flights](#awesome-flights)
    * [General search](#general-search)
-   * [Special search] (#special-search)
+   * [Special search](#special-search)
    * [Low-cost airlines](#low-cost-airlines)
    * [Error fares and cheap flights aggregators](#error-fares-and-cheap-flights-aggregators)
    * [Communities](#communities)
