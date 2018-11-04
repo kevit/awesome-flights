@@ -85,6 +85,7 @@ Still looking for a good search engine
 * [Milradar](http://milradar.livejournal.com/)
 * [Milradar Twitter](https://twitter.com/MIL_Radar)
 * [Planesonthenet](https://twitter.com/planesonthenet)
+* [Good links list Sonicgoose](http://sonicgoose.com/connecting-flights/)
 
 ## Other services
 
