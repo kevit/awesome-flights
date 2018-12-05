@@ -6,3 +6,5 @@
 | [Norvegian](https://www.norwegian.com/) ||
 | [Pegasus](https://www.flypgs.com/)||
 | [Aegean](https://en.aegeanair.com/)||
+| [Pobeda](https://pobeda.aero) ||
+| [EasyJet](https://easyjet.com) ||
