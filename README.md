@@ -91,6 +91,9 @@ Still looking for a good search engine
 * [Milradar Twitter](https://twitter.com/MIL_Radar)
 * [Planesonthenet](https://twitter.com/planesonthenet)
 * [Good links list Sonicgoose](http://sonicgoose.com/connecting-flights/)
+* [Book about ADS-B](https://mode-s.org/decode/adsb/introduction.html)
+* [SDR Mode-S receiver](https://github.com/antirez/dump1090)
+* [Graphic SDR flight tracker](https://github.com/mantra002/flight-tracker)
 
 ## Other services and lists
 
