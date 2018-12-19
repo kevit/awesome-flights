@@ -94,7 +94,7 @@ Still looking for a good search engine
 
 ## Other services
 
-* [Statistic from Flightstats] https://www.flightstats.com/v2/
+* [Statistic from Flightstats](https://www.flightstats.com/v2/)
 * [SeatGuru Choose a proper seat](https://www.seatguru.com/)
 * [Virtual airports](https://www.youtube.com/watch?v=bQQK0iR5iBU)
 * [METAR and airport list](http://www.orbifly.com/member/metmap.php?mode=metar)
