@@ -8,6 +8,7 @@ Want to contribute? Send me a PR or private mail to [mailbox](mailto:root@kevit.
    * [awesome-flights](#awesome-flights)
    * [General search](#general-search)
    * [Special search](#special-search)
+   * [Companies on the market]("companies-on-the-market")
    * [Low-cost airlines](#low-cost-airlines)
    * [Error fares and cheap flights aggregators](#error-fares-and-cheap-flights-aggregators)
    * [Communities](#communities)
@@ -31,6 +32,10 @@ Want to contribute? Send me a PR or private mail to [mailbox](mailto:root@kevit.
 * [Full airports database](http://www.partow.net/miscellaneous/airportdatabase/)
 * [Airport connections map](https://www.flightconnections.com/)
 * [Multiple persons to one destination](https://www.tripmatch.org)
+
+## Companies on the market
+
+* [List of companies alliances and subsidiaries](alliances.md)
 
 ## Low-cost airlines
 
