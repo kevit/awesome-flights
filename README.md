@@ -17,7 +17,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
    * [Services which helps you find a cheap flight](#services-which-helps-you-find-a-cheap-flight)
    * [Stopover](#stopover)
    * [Delays? Here is a help](#delays-here-is-a-help)
-   * [Other services](#other-services)
+   * [Other services](#other-services-and-lists)
 
 ## General search
 
@@ -92,11 +92,12 @@ Still looking for a good search engine
 * [Planesonthenet](https://twitter.com/planesonthenet)
 * [Good links list Sonicgoose](http://sonicgoose.com/connecting-flights/)
 
-## Other services
+## Other services and lists
 
 * [Statistic from Flightstats](https://www.flightstats.com/v2/)
 * [SeatGuru Choose a proper seat](https://www.seatguru.com/)
 * [Virtual airports](https://www.youtube.com/watch?v=bQQK0iR5iBU)
 * [METAR and airport list](http://www.orbifly.com/member/metmap.php?mode=metar)
 * [AIS Netherlands](http://www.ais-netherlands.nl)
+* [Awesome Transit](https://github.com/CUTR-at-USF/awesome-transit#readme)
 
