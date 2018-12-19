@@ -1,7 +1,7 @@
 # awesome-flights
 Curated list of flight searches
 
-Want to contribute? Send me a PR or private mail to [mailbox](mailto:root@kevit.info) # CC0 License
+Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](mailto:root@kevit.info) # CC0 License
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
