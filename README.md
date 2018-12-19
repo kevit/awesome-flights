@@ -1,11 +1,11 @@
 # awesome-flights
 Curated list of flight searches
 
-Want to contribute? Send me a PR or private mail to [mailbox](mailto:root@kevit.info)
+Want to contribute? Send me a PR or private mail to [mailbox](mailto:root@kevit.info) # CC0 License
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-   * [awesome-flights](#awesome-flights)
+## Contents
    * [General search](#general-search)
    * [Special search](#special-search)
    * [Companies on the market](#companies-on-the-market)
