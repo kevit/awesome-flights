@@ -17,6 +17,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
    * [Services which helps you find a cheap flight](#services-which-helps-you-find-a-cheap-flight)
    * [Stopover](#stopover)
    * [Delays? Here is a help](#delays-here-is-a-help)
+   * [Plain watching](#plain-watching)
    * [Other services](#other-services-and-lists)
 
 ## General search
