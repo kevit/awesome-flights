@@ -5,10 +5,10 @@
 | [Wizzair](https://wizzair.com/) | [Map](https://wizzair.com/ru-RU/Map) |
 
 
-[Norvegian](https://www.norwegian.com/)
-[Pegasus](https://www.flypgs.com/)
-[Aegean](https://en.aegeanair.com/)
-[Pobeda](https://pobeda.aero)
-[EasyJet](https://easyjet.com)
+* [Norvegian](https://www.norwegian.com/)
+* [Pegasus](https://www.flypgs.com/)
+* [Aegean](https://en.aegeanair.com/)
+* [Pobeda](https://pobeda.aero)
+* [EasyJet](https://easyjet.com)
 
-[Supported list of lowcost companies (Ru)](https://samokatus.ru/lowcost-airlines/)
+*[Supported list of lowcost companies (Ru)](https://samokatus.ru/lowcost-airlines/)
