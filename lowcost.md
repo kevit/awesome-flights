@@ -11,4 +11,4 @@
 * [Pobeda](https://pobeda.aero)
 * [EasyJet](https://easyjet.com)
 
-*[Supported list of lowcost companies (Ru)](https://samokatus.ru/lowcost-airlines/)
+* [Supported list of lowcost companies (Ru)](https://samokatus.ru/lowcost-airlines/)
