@@ -74,6 +74,7 @@ Still looking for a good search engine
 * Turkish airlines providing an hotel or Istambul trip for free if yours stopover longer that 8 hours
 * [Airports sleeping guide](https://www.sleepinginairports.net/)
 * [Airports tour](http://thriftynomads.com/6-airports-with-free-tours/)
+* [List of Wifi](https://www.google.com/maps/d/viewer?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY&hl=en_US%3Fautohide%3D1%3Bshowinfo%3D0&ll=-14.99583811084251%2C43.707413350000024&z=2)
 
 ## Delays? Here is a help
 
