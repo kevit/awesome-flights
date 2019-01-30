@@ -20,14 +20,21 @@ Scoot
 
 
 ## Lufthansa 
-Brussels Airlines
-Austrian Airlines
-Eurowings
+* Lufthansa
+* Lufthansa CityLine
+* Brussels Airlines
+* Austrian Airlines
+* Air Dolomiti
+* Eurowings
+* Swiss international Airlines
+* Edelweiss Air
+* Swiss global Air Lines
 
 ## IAG
-British Airways
-Iberia
-Aer Lingus
-Vueling
-Level
+
+* British Airways
+* Iberia
+* Aer Lingus
+* Vueling
+* Level
 
