@@ -29,6 +29,7 @@ Scoot
 * Swiss international Airlines
 * Edelweiss Air
 * Swiss global Air Lines
+* Sun Express (50%)
 
 ## IAG
 
