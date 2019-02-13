@@ -57,7 +57,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 
 ## Charter flights
 
-Still looking for a good search engine
+* [Flexflight](https://flexflight.dk/)
 
 ## Empty legs
 
