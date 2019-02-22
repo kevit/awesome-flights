@@ -22,11 +22,12 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 
 ## General search
 
-* [Googlet](https://www.google.com/flights/)
+* [Google](https://www.google.com/flights/)
 * [Kiwi](https://kiwi.com)
 * [IATA search](http://matrix.itasoftware.com/)
 * [Adioso](http://adioso.com)
 * [Flightlist](https://www.flightlist.io/)
+* [Greatescape](https://greatescape.co)
 
 ## Special search
 
