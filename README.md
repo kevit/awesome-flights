@@ -1,24 +1,23 @@
-# awesome-flights
+# Awesome-flights [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Curated list of flight searches
 
-Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](mailto:root@kevit.info) # CC0 License
+Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](mailto:root@kevit.info) 
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
-   * [General search](#general-search)
-   * [Special search](#special-search)
-   * [Companies on the market](#companies-on-the-market)
-   * [Low-cost airlines](#low-cost-airlines)
-   * [Error fares and cheap flights aggregators](#error-fares-and-cheap-flights-aggregators)
-   * [Communities](#communities)
-   * [Charter flights](#charter-flights)
-   * [Empty legs](#empty-legs)
-   * [Services which helps you find a cheap flight](#services-which-helps-you-find-a-cheap-flight)
-   * [Stopover](#stopover)
-   * [Delays? Here is a help](#delays-here-is-a-help)
-   * [Plain watching](#plain-watching)
-   * [Other services](#other-services-and-lists)
+* [General search](#general-search)
+* [Special search](#special-search)
+* [Companies on the market](#companies-on-the-market)
+* [Low-cost airlines](#low-cost-airlines)
+* [Error fares and cheap flights aggregators](#error-fares-and-cheap-flights-aggregators)
+* [Communities](#communities)
+* [Charter flights](#charter-flights)
+* [Empty legs](#empty-legs)
+* [Services which helps you find a cheap flight](#services-which-helps-you-find-a-cheap-flight)
+* [Stopover](#stopover)
+* [Delays? Here is a help](#delays-here-is-a-help)
+* [Plain watching](#plain-watching)
+* [Other services and lists](#other-services-and-lists)
 
 ## General search
 
@@ -82,10 +81,11 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Directive EU 261](https://en.wikipedia.org/wiki/Flight_Compensation_Regulation_261/2004)
 * [Airhelp Helps you get a return from your flight company](https://airhelp.com)
 * [Fairplane.de their Competitor](https://www.fairplane.de/)
-* [Another return service] (https://www.compensair.com/en/)
+* [Another return service](https://www.compensair.com/en/)
 
 
 ## Plain watching 
+
 * [Flightradar](https://flightradar24.com)
 * [Flightaware](https://uk.flightaware.com/)
 * [ADSB](https://twitter.com/ADSBTweetBot)
@@ -107,3 +107,6 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [AIS Netherlands](http://www.ais-netherlands.nl)
 * [Awesome Transit](https://github.com/CUTR-at-USF/awesome-transit#readme)
 
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
