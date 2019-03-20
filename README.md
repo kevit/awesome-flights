@@ -55,6 +55,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 ## Communities
 
 * [Flyertalk Forum](https://www.flyertalk.com)
+* [Vielfliegertreff(DE)](https://www.vielfliegertreff.de/)
 
 ## Charter flights
 
