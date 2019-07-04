@@ -56,6 +56,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 
 * [Flyertalk Forum](https://www.flyertalk.com)
 * [Vielfliegertreff(DE)](https://www.vielfliegertreff.de/)
+* [Announced routes(DE)](http://www.airliners.de/thema/streckenankuendigungen)
 * [Closed airlines 2019](https://allplane.tv/blog/2019/2/11/airline-bankruptcies-the-2019-list-is-open)
 
 ## Charter flights
