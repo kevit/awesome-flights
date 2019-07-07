@@ -88,7 +88,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Another return service](https://www.compensair.com/en/)
 
 
-## Plain watching 
+## Plane watching 
 
 * [Flightradar](https://flightradar24.com)
 * [Flightaware](https://uk.flightaware.com/)
