@@ -34,6 +34,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Airport connections map](https://www.flightconnections.com/)
 * [Multiple persons to one destination](https://www.tripmatch.org)
 * [Datasets](https://openflights.org/data.html)
+* [Fly away from cold](https://www.routitude.com/)
 
 ## Companies on the market
 
