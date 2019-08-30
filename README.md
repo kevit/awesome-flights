@@ -33,7 +33,8 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Full airports database](http://www.partow.net/miscellaneous/airportdatabase/)
 * [Airport connections map](https://www.flightconnections.com/)
 * [Multiple persons to one destination](https://www.tripmatch.org)
-* [Datasets](https://openflights.org/data.html)
+* [Datasets from Openflights](https://openflights.org/data.html)
+* [API and Datasets from Aviation-Edge](https://aviation-edge.com/)
 * [Fly away from cold](https://www.routitude.com/)
 
 ## Companies on the market
