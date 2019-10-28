@@ -20,7 +20,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Other services and lists](#other-services-and-lists)
 
 ## General search
-
+* [Airport connections map](https://www.flightconnections.com/)
 * [Google](https://www.google.com/flights/)
 * [Kiwi](https://kiwi.com)
 * [IATA search](http://matrix.itasoftware.com/)
@@ -31,7 +31,6 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 ## Special search
 
 * [Full airports database](http://www.partow.net/miscellaneous/airportdatabase/)
-* [Airport connections map](https://www.flightconnections.com/)
 * [Multiple persons to one destination](https://www.tripmatch.org)
 * [Datasets from Openflights](https://openflights.org/data.html)
 * [API and Datasets from Aviation-Edge](https://aviation-edge.com/)
