@@ -113,6 +113,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [AIS Netherlands](http://www.ais-netherlands.nl)
 * [Awesome Transit](https://github.com/CUTR-at-USF/awesome-transit#readme)
 * [No Fly Areas Germany](https://map2fly.flynex.de/)
+* [Birds forecast Germany](https://www.davvl.de/startseite)
 
 ## License
 
