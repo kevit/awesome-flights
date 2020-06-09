@@ -1,6 +1,8 @@
 # Awesome-flights [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Curated list of flight searches
 
+* Read about [Covid-19](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm)
+
 Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](mailto:root@kevit.info) 
 
 
