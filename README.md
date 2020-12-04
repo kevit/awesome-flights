@@ -37,6 +37,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Datasets from Openflights](https://openflights.org/data.html)
 * [API and Datasets from Aviation-Edge](https://aviation-edge.com/)
 * [Fly away from cold](https://www.routitude.com/)
+* [Airlabs.co Global Aviation Data API](https://airlabs.co/)
 
 ## Companies on the market
 
