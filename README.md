@@ -74,6 +74,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 ## Charter flights
 
 * [Flexflight](https://flexflight.dk/)
+* [Victor](https://www.flyvictor.com)
 
 ## Empty legs
 
