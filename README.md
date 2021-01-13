@@ -67,6 +67,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 
 ## PPL
 
+* [Overview(DE)](https://air2air.de/ratgeber/ratgeber-tipps-fuer-mitflieger/)
 * [Flyt](https://flyt.club/)
 * [Wingly](https://www.wingly.io/de)
 * [Coavmi](https://www.coavmi.com/)
