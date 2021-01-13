@@ -13,6 +13,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Low-cost airlines](#low-cost-airlines)
 * [Error fares and cheap flights aggregators](#error-fares-and-cheap-flights-aggregators)
 * [Communities](#communities)
+* [PPL](#PPL)
 * [Charter flights](#charter-flights)
 * [Empty legs](#empty-legs)
 * [Services which helps you find a cheap flight](#services-which-helps-you-find-a-cheap-flight)
@@ -63,6 +64,12 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Vielfliegertreff(DE)](https://www.vielfliegertreff.de/)
 * [Announced routes(DE)](http://www.airliners.de/thema/streckenankuendigungen)
 * [Closed airlines 2019](https://allplane.tv/blog/2019/2/11/airline-bankruptcies-the-2019-list-is-open)
+
+## PPL
+
+* [Flyt](https://flyt.club/)
+* [Wingly](https://www.wingly.io/de)
+
 
 ## Charter flights
 
