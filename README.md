@@ -69,6 +69,8 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 
 * [Flyt](https://flyt.club/)
 * [Wingly](https://www.wingly.io/de)
+* [Coavmi](https://www.coavmi.com/)
+* [Fluggemeinschaft](https://fluggemeinschaft.de)
 
 
 ## Charter flights
@@ -126,6 +128,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Awesome Transit](https://github.com/CUTR-at-USF/awesome-transit#readme)
 * [No Fly Areas Germany](https://map2fly.flynex.de/)
 * [Birds forecast Germany](https://www.davvl.de/startseite)
+* [Fliegermagazin](https://www.fliegermagazin.de/)
 
 ## License
 
