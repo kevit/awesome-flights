@@ -20,6 +20,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Stopover](#stopover)
 * [Delays? Here is a help](#delays-here-is-a-help)
 * [Plain watching](#plain-watching)
+* [Charts](#Charts)
 * [Other services and lists](#other-services-and-lists)
 
 ## General search
@@ -39,6 +40,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [API and Datasets from Aviation-Edge](https://aviation-edge.com/)
 * [Fly away from cold](https://www.routitude.com/)
 * [Airlabs.co Global Aviation Data API](https://airlabs.co/)
+* [OpenAIP Worldwide aviation database](http://openaip.net/)
 
 ## Companies on the market
 
@@ -118,6 +120,13 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [SDR Mode-S receiver](https://github.com/antirez/dump1090)
 * [3D Visualisation from dump1090](https://github.com/JorgeGT/PlotRTL1090)
 * [Graphic SDR flight tracker](https://github.com/mantra002/flight-tracker)
+
+## Charts
+
+* [OpenAIP](https://maps.openaip.net/)
+* [Openflight](https://www.openflightmaps.org)
+* [Airmate](http://www.airmate.aero/#)
+* [VFRMap (USA)](https://vfrmap.com/)
 
 ## Other services and lists
 
