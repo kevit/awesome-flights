@@ -139,6 +139,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [No Fly Areas Germany](https://map2fly.flynex.de/)
 * [Birds forecast Germany](https://www.davvl.de/startseite)
 * [Fliegermagazin](https://www.fliegermagazin.de/)
+* [Business Jet aviation market reports](https://www.jetnet.com/research/reports/)
 
 ## License
 
