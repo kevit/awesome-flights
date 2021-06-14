@@ -55,7 +55,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 
 
 ## Error fares and cheap flights aggregators
-
+* [Skiplagged - loopholes search](https://skiplagged.com)
 * [Secretflying.com](http://www.secretflying.com/euro-deals/)
 * [Theflightdeal.com](https://www.theflightdeal.com)
 * [Hacktheflight.net](https://hacktheflight.net)
