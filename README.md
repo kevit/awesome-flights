@@ -1,7 +1,9 @@
 # Awesome-flights [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Curated list of flight searches
 
-* Read about [Covid-19](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm)
+* Read about [Covid-19](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm) situation
+* Last information about [Europe destinations](https://reopen.europa.eu/en/)
+* [UNECE monitoring](https://wiki.unece.org/display/CTRBSBC/Observatory+on+Border+Crossings+Status+due+to+COVID-19+Home)
 
 Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](mailto:root@kevit.info) 
 
@@ -21,6 +23,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Delays? Here is a help](#delays-here-is-a-help)
 * [Plain watching](#plain-watching)
 * [Charts](#Charts)
+* [Virtual Flights](#virtual-flights)
 * [Other services and lists](#other-services-and-lists)
 
 ## General search
@@ -127,6 +130,9 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Openflight](https://www.openflightmaps.org)
 * [Airmate](http://www.airmate.aero/#)
 * [VFRMap (USA)](https://vfrmap.com/)
+
+## Virtual flights
+* [avsim.su](https://www.avsim.su/wiki/Avsim_Wiki)
 
 ## Other services and lists
 
