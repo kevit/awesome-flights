@@ -39,7 +39,6 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 ## Special search
 * [Airports connections Flightsfrom.com](https://www.flightsfrom.com)
 * [Full airports database](http://www.partow.net/miscellaneous/airportdatabase/)
-* [Multiple persons to one destination](https://www.tripmatch.org)
 * [Datasets from Openflights](https://openflights.org/data.html)
 * [API and Datasets from Aviation-Edge](https://aviation-edge.com/)
 * [Fly away from cold](https://www.routitude.com/)
@@ -68,6 +67,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 
 ## Group meetings and corporate travel
 * [Travy.io - Easiest way to plan group trips](https://travy.io)
+* [Tripmatch.org](https://www.tripmatch.org/#/)
   
 ## Communities
 
