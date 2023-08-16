@@ -14,6 +14,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Companies on the market](#companies-on-the-market)
 * [Low-cost airlines](#low-cost-airlines)
 * [Error fares and cheap flights aggregators](#error-fares-and-cheap-flights-aggregators)
+* [Group meetings and corporate travel](#group-meetings-and-corporate-travel)
 * [Communities](#communities)
 * [PPL](#PPL)
 * [Charter flights](#charter-flights)
@@ -65,6 +66,9 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Theflightdeal.com](https://www.theflightdeal.com)
 * [Hacktheflight.net](https://hacktheflight.net)
 
+## Group meetings and corporate travel
+* [Travy.io - Easiest way to plan group trips](https://travy.io)
+  
 ## Communities
 
 * [Flyertalk Forum](https://www.flyertalk.com)
