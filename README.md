@@ -11,6 +11,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 ## Contents
 * [General search](#general-search)
 * [Special search](#special-search)
+* [Airports](#airpoirts)
 * [Companies on the market](#companies-on-the-market)
 * [Low-cost airlines](#low-cost-airlines)
 * [Error fares and cheap flights aggregators](#error-fares-and-cheap-flights-aggregators)
@@ -28,7 +29,6 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Other services and lists](#other-services-and-lists)
 
 ## General search
-* [Airport connections map](https://www.flightconnections.com/)
 * [Google](https://www.google.com/flights/)
 * [Kiwi](https://kiwi.com)
 * [IATA search](http://matrix.itasoftware.com/)
@@ -37,15 +37,19 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Greatescape](https://greatescape.co)
 
 ## Special search
-* [Airports connections Flightsfrom.com](https://www.flightsfrom.com)
-* [Full airports database](http://www.partow.net/miscellaneous/airportdatabase/)
 * [Datasets from Openflights](https://openflights.org/data.html)
 * [API and Datasets from Aviation-Edge](https://aviation-edge.com/)
 * [Fly away from cold](https://www.routitude.com/)
 * [Airlabs.co Global Aviation Data API](https://airlabs.co/)
 * [OpenAIP Worldwide aviation database](http://openaip.net/)
-* [Airport destinations](https://mytrack.app/airport/LCA)
 * [Standalone app Azuon](https://azuon.com/)
+
+## Airports
+* [Airports connections Flightsfrom.com](https://www.flightsfrom.com)
+* [Airport connections map](https://www.flightconnections.com/)
+* [Full airports database](http://www.partow.net/miscellaneous/airportdatabase/)
+* [Airport destinations](https://mytrack.app/airport/LCA)
+* [Airport charges](https://www.europarl.europa.eu/legislative-train/theme-a-europe-fit-for-the-digital-age/file-airport-charges)
 
 ## Companies on the market
 
