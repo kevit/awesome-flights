@@ -44,10 +44,12 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Fly away from cold](https://www.routitude.com/)
 * [Airlabs.co Global Aviation Data API](https://airlabs.co/)
 * [OpenAIP Worldwide aviation database](http://openaip.net/)
+* [Airwander: search long stopovers](https://airwander.com/)
 
 ## Companies on the market
 
 * [List of companies alliances and subsidiaries](alliances.md)
+* [List of registration prefixes](https://en.m.wikipedia.org/wiki/List_of_aircraft_registration_prefixes)
 * [Business aviation](https://tools.ibac.org/downloads/isbao_operators.pdf)
 
 ## Low-cost airlines
