@@ -159,6 +159,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Birds forecast Germany](https://www.davvl.de/startseite)
 * [Fliegermagazin](https://www.fliegermagazin.de/)
 * [Business Jet aviation market reports](https://www.jetnet.com/research/reports/)
+* [SkyBrary: safety knowledge related to flight operations](https://skybrary.aero/)
 
 ## License
 
