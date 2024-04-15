@@ -160,6 +160,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Fliegermagazin](https://www.fliegermagazin.de/)
 * [Business Jet aviation market reports](https://www.jetnet.com/research/reports/)
 * [SkyBrary: safety knowledge related to flight operations](https://skybrary.aero/)
+* [If you're wondering how to check if you're flying Boeing](https://www.amiflyingonaboeing.com/)
 
 ## License
 
