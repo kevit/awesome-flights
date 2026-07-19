@@ -44,6 +44,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [OpenAIP Worldwide aviation database](http://openaip.net/)
 * [Airwander: search long stopovers](https://airwander.com/)
 * [Standalone app Azuon](https://azuon.com/)
+* [Multi-flight optimization](https://stays.flights)
 
 ## Airports
 * [Airports connections Flightsfrom.com](https://www.flightsfrom.com)
