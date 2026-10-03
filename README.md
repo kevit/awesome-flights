@@ -120,6 +120,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Airhelp Helps you get a return from your flight company](https://airhelp.com)
 * [Fairplane.de their Competitor](https://www.fairplane.de/)
 * [Another return service](https://www.compensair.com/en/)
+* [FlightRefundCalc](https://flightrefundcalc.com/) - Free EU261/UK261 delay-compensation checker plus a letter to send the airline yourself, no sign-up
 
 
 ## Plane watching 
