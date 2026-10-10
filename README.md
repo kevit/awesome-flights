@@ -35,6 +35,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Adioso](http://adioso.com)
 * [Flightlist](https://www.flightlist.io/)
 * [Greatescape](https://greatescape.co)
+* [AIREWD](https://airewd.com) - AI assistant for flight search and booking
 
 ## Special search
 * [Datasets from Openflights](https://openflights.org/data.html)
