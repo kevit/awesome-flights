@@ -35,6 +35,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Adioso](http://adioso.com)
 * [Flightlist](https://www.flightlist.io/)
 * [Greatescape](https://greatescape.co)
+* [Mubboo Flights](https://mubboo.flights/) - Compare flight options, with hotel and car rental search, destination guides, tours and attraction tickets.
 
 ## Special search
 * [Datasets from Openflights](https://openflights.org/data.html)
