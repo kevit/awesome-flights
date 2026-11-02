@@ -57,6 +57,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 
 * [List of companies alliances and subsidiaries](alliances.md)
 * [List of registration prefixes](https://en.m.wikipedia.org/wiki/List_of_aircraft_registration_prefixes)
+* [Tail Number Report](https://tailnumberreport.com/) - Free FAA registration + accident-count lookup by tail number (US only), paid $79 report adds full NTSB history with a serial-number cross-match that catches accidents filed under a prior registration.
 * [Business aviation](https://tools.ibac.org/downloads/isbao_operators.pdf)
 
 ## Low-cost airlines
