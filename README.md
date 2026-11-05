@@ -45,6 +45,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Airwander: search long stopovers](https://airwander.com/)
 * [Standalone app Azuon](https://azuon.com/)
 * [Multi-flight optimization](https://stays.flights)
+* [Google Flights API by AlphaOSINT](https://alphaosint.com/sources/google-flights-api/) - Google Flights fares, stops and durations as JSON, for scripts and AI agents.
 
 ## Airports
 * [Airports connections Flightsfrom.com](https://www.flightsfrom.com)
