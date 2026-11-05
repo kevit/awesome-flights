@@ -35,6 +35,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Adioso](http://adioso.com)
 * [Flightlist](https://www.flightlist.io/)
 * [Greatescape](https://greatescape.co)
+* [Travellagio](https://travellagio.com/explore/) - interactive 3D globe with live flight prices and visa requirements by passport, 38 destinations, free
 
 ## Special search
 * [Datasets from Openflights](https://openflights.org/data.html)
