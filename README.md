@@ -73,6 +73,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Secretflying.com](http://www.secretflying.com/euro-deals/)
 * [Theflightdeal.com](https://www.theflightdeal.com)
 * [Hacktheflight.net](https://hacktheflight.net)
+* [Flare error fare candidates](https://flareflights.com/error-fare-flights.html) - Free list of fares at least 55% below their route reference, mostly from European airports, each with its scan time and route reference
 
 ## Group meetings and corporate travel
 * [Travy.io - Easiest way to plan group trips](https://travy.io)
