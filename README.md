@@ -45,6 +45,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Airwander: search long stopovers](https://airwander.com/)
 * [Standalone app Azuon](https://azuon.com/)
 * [Multi-flight optimization](https://stays.flights)
+* [Google Flights API by AlphaOSINT](https://alphaosint.com/sources/google-flights-api/) - Google Flights fares, stops and durations as JSON, for scripts and AI agents.
 
 ## Airports
 * [Airports connections Flightsfrom.com](https://www.flightsfrom.com)
@@ -57,6 +58,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 
 * [List of companies alliances and subsidiaries](alliances.md)
 * [List of registration prefixes](https://en.m.wikipedia.org/wiki/List_of_aircraft_registration_prefixes)
+* [Tail Number Report](https://tailnumberreport.com/) - Free FAA registration + accident-count lookup by tail number (US only), paid $79 report adds full NTSB history with a serial-number cross-match that catches accidents filed under a prior registration.
 * [Business aviation](https://tools.ibac.org/downloads/isbao_operators.pdf)
 
 ## Low-cost airlines
@@ -72,6 +74,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Theflightdeal.com](https://www.theflightdeal.com)
 * [Hacktheflight.net](https://hacktheflight.net)
 * [Blamethefare - flight deals from your home airport, checked every day](https://www.blamethefare.com)
+* [Flare error fare candidates](https://flareflights.com/error-fare-flights.html) - Free list of fares at least 55% below their route reference, mostly from European airports, each with its scan time and route reference
 
 ## Group meetings and corporate travel
 * [Travy.io - Easiest way to plan group trips](https://travy.io)
