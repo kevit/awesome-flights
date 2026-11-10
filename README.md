@@ -46,6 +46,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Standalone app Azuon](https://azuon.com/)
 * [Multi-flight optimization](https://stays.flights)
 * [Google Flights API by AlphaOSINT](https://alphaosint.com/sources/google-flights-api/) - Google Flights fares, stops and durations as JSON, for scripts and AI agents.
+* [Stopover: cheapest order for a multi-city trip](https://flystopover.com/)
 
 ## Airports
 * [Airports connections Flightsfrom.com](https://www.flightsfrom.com)
