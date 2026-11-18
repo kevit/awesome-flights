@@ -118,6 +118,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [Airports sleeping guide](https://www.sleepinginairports.net/)
 * [Airports tour](http://thriftynomads.com/6-airports-with-free-tours/)
 * [List of Wifi](https://www.google.com/maps/d/viewer?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY&hl=en_US%3Fautohide%3D1%3Bshowinfo%3D0&ll=-14.99583811084251%2C43.707413350000024&z=2)
+* [Stopover (flystopover.com)](https://flystopover.com) - Free multi-city trip planner: give a home airport, 2 to 7 cities and a date window, it prices every order of the cities and every departure day and returns the cheapest route, with the flight or train for each leg and booking links.
 
 ## Delays? Here is a help
 
