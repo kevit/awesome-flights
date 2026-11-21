@@ -142,6 +142,7 @@ Want to [contribute](contribute.md)? Send me a PR or private mail to [mailbox](m
 * [SDR Mode-S receiver](https://github.com/antirez/dump1090)
 * [3D Visualisation from dump1090](https://github.com/JorgeGT/PlotRTL1090)
 * [Graphic SDR flight tracker](https://github.com/mantra002/flight-tracker)
+* [Velocity](https://github.com/AndrewCTF/velocity) - Self-hosted 3D globe of live aircraft and ships from free ADS-B and AIS feeds, no API key, with its own replayable history.
 * [Reddit ADSB](https://www.reddit.com/r/ADSB)
 
 ## Charts
